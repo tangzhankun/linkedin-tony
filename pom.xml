@@ -215,9 +215,6 @@
 
     <profile>
       <id>hadoop-2.7</id>
-      <activation>
-        <activeByDefault>true</activeByDefault>
-      </activation>
       <properties>
         <hadoop.version>2.7.3</hadoop.version>
         <guice.version>3.0</guice.version>
